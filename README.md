@@ -10,7 +10,7 @@ This is what I hope to achieve in 2023:
 <p>Get more healthy habits;
 <p>Improve communication skills;
 <p>Learn video editing/motion graphics to make my new projects more entertaining;
-<p>Enhance my skills in website transfer <a href="https://sitebuilders.pro/wordpress-to-wix-migration">from WordPress to Wix</a>;
+<p>Enhance my skills in website transfer -  <a href="https://sitebuilders.pro">https://sitebuilders.pro</a>;
 <p>Completed over 50 new projects;
 <p>Read not less than 10 new books;
 <p>Starter building a new house for my family;
